@@ -1,0 +1,24 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "This is my first bot, he is a good noodle.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SentientSam/DiscordBot.git"
+  },
+  "author": "Samuel Lamb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SentientSam/DiscordBot/issues"
+  },
+  "homepage": "https://github.com/SentientSam/DiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0",
+    "heroku": "^7.59.0"
+  }
+}
